@@ -1,0 +1,4 @@
+#Mon Mar 04 17:49:53 CST 2019
+base.0=D\:\\software\\JPushDemo\\JPush\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
